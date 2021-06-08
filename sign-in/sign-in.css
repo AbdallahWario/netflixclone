@@ -1,0 +1,81 @@
+.signin{
+    display: flex;
+    background: url('./background.jpg')center center/cover no-repeat;
+    text-decoration: none;
+    flex-direction: column;
+    height:100vh ;
+    margin: 0;
+    background-size: cover;
+    align-items: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+  
+   
+    
+}
+.signin-wrapper{
+    
+    background-color: rgba(0,0,0,.75);
+    color: white;
+    align-self: center;
+    justify-content: center;
+    margin-top: 2 rem;
+    height: 70%;
+    margin-top: 4rem;
+  
+}
+    
+.signin-input input{
+
+    font-size: 11px;
+    padding:12px ;
+    border-radius: 4px;
+    background-color: rgba(88, 88, 88, 0.75);
+}
+body h1{
+    font-size: 20px;
+    color: rgb(221, 46, 15);
+}
+.signin-btn{
+    background-color: rgb(236, 51, 18);
+    color: white;
+    margin-top: 2rem;
+    cursor: pointer;
+    padding: 12px;
+
+
+}
+
+.signin-input{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1 rem;
+    font-size: 13px;
+    width:100% ;
+    margin: 1rem;
+    box-sizing: border-box;
+    color: white;
+    outline: none;
+    
+}
+.signin-wrap{
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 1rem;
+    display: flex;
+    flex-direction: column;   
+}
+
+.signin .signin-header{
+    margin: 1rem;
+    font-size: 10px ;
+}
+.google-protect{
+    font-size: 13px;
+    color:#8c8c8c;
+    margin-top: 11px;
+}
+.remember{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
