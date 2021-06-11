@@ -31,8 +31,13 @@
     border-radius: 4px;
     background-color: rgba(88, 88, 88, 0.75);
 }
-body h1{
-    font-size: 20px;
+.signin-input input :focus{
+    padding:0px;
+
+
+}
+ .signin h1{
+    font-size: 30px;
     color: rgb(221, 46, 15);
 }
 .signin-btn{
