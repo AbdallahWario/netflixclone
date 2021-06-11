@@ -31,11 +31,7 @@
     border-radius: 4px;
     background-color: rgba(88, 88, 88, 0.75);
 }
-.signin-input input :focus{
-  
 
-
-}
  .signin h1{
     font-size: 30px;
     color: rgb(221, 46, 15);
